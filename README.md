@@ -1,4 +1,3 @@
-# water-ui_helloworld
 
 ## Project setup
 ```
